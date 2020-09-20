@@ -1,0 +1,15 @@
+C:\Users\Anthony\source\repos\AreaClass\AreaLibrary\bin\Debug\AreaLibrary.dll
+C:\Users\Anthony\source\repos\AreaClass\AreaLibrary\bin\Debug\AreaLibrary.pdb
+C:\Users\Anthony\source\repos\AreaClass\AreaLibrary\obj\Debug\AreaLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\AreaClass\AreaLibrary\obj\Debug\AreaLibrary.dll
+C:\Users\Anthony\source\repos\AreaClass\AreaLibrary\obj\Debug\AreaLibrary.pdb
+D:\CSC253\AreaClass\AreaLibrary\bin\Debug\AreaLibrary.dll
+D:\CSC253\AreaClass\AreaLibrary\bin\Debug\AreaLibrary.pdb
+D:\CSC253\AreaClass\AreaLibrary\obj\Debug\AreaLibrary.csprojAssemblyReference.cache
+D:\CSC253\AreaClass\AreaLibrary\obj\Debug\AreaLibrary.dll
+D:\CSC253\AreaClass\AreaLibrary\obj\Debug\AreaLibrary.pdb
+C:\Users\Anthony\Desktop\BackupClasses\CSC253\AreaClass\AreaLibrary\bin\Debug\AreaLibrary.dll
+C:\Users\Anthony\Desktop\BackupClasses\CSC253\AreaClass\AreaLibrary\bin\Debug\AreaLibrary.pdb
+C:\Users\Anthony\Desktop\BackupClasses\CSC253\AreaClass\AreaLibrary\obj\Debug\AreaLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\BackupClasses\CSC253\AreaClass\AreaLibrary\obj\Debug\AreaLibrary.dll
+C:\Users\Anthony\Desktop\BackupClasses\CSC253\AreaClass\AreaLibrary\obj\Debug\AreaLibrary.pdb
