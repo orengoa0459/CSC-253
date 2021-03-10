@@ -1,0 +1,10 @@
+******************************
+*      Player Selection      *
+******************************
+* 1. Create Player           *
+* 2. Start Game              *
+* Esc. Exit                  *
+*                            *
+******************************
+*XXXXXXXXXXXXXXXXXXXXXXXXXXXX*
+******************************

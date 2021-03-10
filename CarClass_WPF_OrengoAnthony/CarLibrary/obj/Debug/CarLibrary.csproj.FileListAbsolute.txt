@@ -1,0 +1,16 @@
+C:\Users\orengoa0459\source\repos\CarClass\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\orengoa0459\source\repos\CarClass\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\orengoa0459\source\repos\CarClass\CarLibrary\obj\Debug\CarLibrary.csprojAssemblyReference.cache
+C:\Users\orengoa0459\source\repos\CarClass\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\orengoa0459\source\repos\CarClass\CarLibrary\obj\Debug\CarLibrary.pdb
+C:\Users\Anthony\Desktop\CarClass\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\Anthony\Desktop\CarClass\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\Anthony\Desktop\CarClass\CarLibrary\obj\Debug\CarLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\CarClass\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\Anthony\Desktop\CarClass\CarLibrary\obj\Debug\CarLibrary.pdb
+C:\Users\Anthony\Desktop\M4HW1_OrengoAnthony\CarLibrary\bin\Debug\CarLibrary.dll
+C:\Users\Anthony\Desktop\M4HW1_OrengoAnthony\CarLibrary\bin\Debug\CarLibrary.pdb
+C:\Users\Anthony\Desktop\M4HW1_OrengoAnthony\CarLibrary\obj\Debug\CarLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\M4HW1_OrengoAnthony\CarLibrary\obj\Debug\CarLibrary.dll
+C:\Users\Anthony\Desktop\M4HW1_OrengoAnthony\CarLibrary\obj\Debug\CarLibrary.pdb
+C:\Users\Anthony\Desktop\M4HW1_OrengoAnthony\CarLibrary\obj\Debug\CarLibrary.csproj.CoreCompileInputs.cache

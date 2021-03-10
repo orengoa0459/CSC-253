@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleUI", "ConsoleUI\ConsoleUI.csproj", "{4D656C9D-2DB6-45FA-BB18-1D610B598CE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameLibrary", "GameLibrary\GameLibrary.csproj", "{BEC9FDFB-5722-4CF8-81C2-EF033C32AD74}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D656C9D-2DB6-45FA-BB18-1D610B598CE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D656C9D-2DB6-45FA-BB18-1D610B598CE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D656C9D-2DB6-45FA-BB18-1D610B598CE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D656C9D-2DB6-45FA-BB18-1D610B598CE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEC9FDFB-5722-4CF8-81C2-EF033C32AD74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC9FDFB-5722-4CF8-81C2-EF033C32AD74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC9FDFB-5722-4CF8-81C2-EF033C32AD74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC9FDFB-5722-4CF8-81C2-EF033C32AD74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4CA7FEA-4E8E-4A2B-9748-982D3F53CA9E}
+	EndGlobalSection
+EndGlobal

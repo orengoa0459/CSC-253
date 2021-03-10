@@ -1,0 +1,10 @@
+C:\Users\Anthony\source\repos\DistanceCalculator\DistanceLibrary\bin\Debug\DistanceLibrary.dll
+C:\Users\Anthony\source\repos\DistanceCalculator\DistanceLibrary\bin\Debug\DistanceLibrary.pdb
+C:\Users\Anthony\source\repos\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.dll
+C:\Users\Anthony\source\repos\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.pdb
+C:\Users\Anthony\Desktop\DistanceCalculator\DistanceLibrary\bin\Debug\DistanceLibrary.dll
+C:\Users\Anthony\Desktop\DistanceCalculator\DistanceLibrary\bin\Debug\DistanceLibrary.pdb
+C:\Users\Anthony\Desktop\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.dll
+C:\Users\Anthony\Desktop\DistanceCalculator\DistanceLibrary\obj\Debug\DistanceLibrary.pdb

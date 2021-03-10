@@ -1,0 +1,15 @@
+C:\Users\Anthony\source\repos\ZombieHunter\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\source\repos\ZombieHunter\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\source\repos\ZombieHunter\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\source\repos\ZombieHunter\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\source\repos\ZombieHunter\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\source\repos\ZombieHunter\ConsoleUI\obj\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\ZombieHunter\ConsoleUI\bin\Debug\ConsoleUI.exe.config
+C:\Users\Anthony\Desktop\ZombieHunter\ConsoleUI\bin\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\ZombieHunter\ConsoleUI\bin\Debug\ConsoleUI.pdb
+C:\Users\Anthony\Desktop\ZombieHunter\ConsoleUI\bin\Debug\GameLibrary.dll
+C:\Users\Anthony\Desktop\ZombieHunter\ConsoleUI\bin\Debug\GameLibrary.pdb
+C:\Users\Anthony\Desktop\ZombieHunter\ConsoleUI\obj\Debug\ConsoleUI.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\ZombieHunter\ConsoleUI\obj\Debug\ConsoleUI.csproj.CopyComplete
+C:\Users\Anthony\Desktop\ZombieHunter\ConsoleUI\obj\Debug\ConsoleUI.exe
+C:\Users\Anthony\Desktop\ZombieHunter\ConsoleUI\obj\Debug\ConsoleUI.pdb

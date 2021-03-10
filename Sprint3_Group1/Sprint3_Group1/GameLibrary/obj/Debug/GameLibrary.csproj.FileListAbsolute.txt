@@ -1,0 +1,12 @@
+C:\Users\Anthony\Desktop\ZombieHunter\GameLibrary\bin\Debug\GameLibrary.dll
+C:\Users\Anthony\Desktop\ZombieHunter\GameLibrary\bin\Debug\GameLibrary.pdb
+C:\Users\Anthony\Desktop\ZombieHunter\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+C:\Users\Anthony\Desktop\ZombieHunter\GameLibrary\obj\Debug\GameLibrary.dll
+C:\Users\Anthony\Desktop\ZombieHunter\GameLibrary\obj\Debug\GameLibrary.pdb
+C:\Users\Anthony\Desktop\ZombieHunter\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\ZombieHunter\GameLibrary\bin\Debug\GameLibrary.dll
+D:\ZombieHunter\GameLibrary\bin\Debug\GameLibrary.pdb
+D:\ZombieHunter\GameLibrary\obj\Debug\GameLibrary.csprojAssemblyReference.cache
+D:\ZombieHunter\GameLibrary\obj\Debug\GameLibrary.csproj.CoreCompileInputs.cache
+D:\ZombieHunter\GameLibrary\obj\Debug\GameLibrary.dll
+D:\ZombieHunter\GameLibrary\obj\Debug\GameLibrary.pdb
